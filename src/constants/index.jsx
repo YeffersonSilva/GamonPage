@@ -2,23 +2,23 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "Fácil integración",
+    title: "Trabaja de forma más inteligente",
+    text: "Con Xora, las tareas tediosas son historia. La automatización y los procesos inteligentes llevan tu productividad a nuevas alturas. Es como tomar una taza extra de café, pero sin los nervios.",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "Ver la demo",
     },
   },
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "Seguro y confiable",
+    title: "Duerme tranquilo, nosotros te respaldamos",
+    text: "La seguridad de tus datos es nuestra prioridad. Con encriptación de última generación y controles de privacidad robustos, Xora mantiene tu información segura y protegida mejor que Fort Knox.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "Leer la documentación",
     },
   },
 ];
@@ -27,130 +27,130 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "Edición de video automatizada con IA",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Colabora con tu equipo",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Motor en la nube ultra rápido",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "Soporte al cliente 24/7",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "¿Qué tan fácil es configurar Xora?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "¿Puedo integrar Xora con otras plataformas?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "¿Con qué frecuencia agregan nuevo contenido?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "¿Cuál es su política de reembolso?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "¿Tienen planes corporativos?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "¿Qué pasa cuando me quedo sin almacenamiento?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "¿Puedo mejorar mi plan?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "¿Cómo invito a mi equipo?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "¿Ofrecen capacitación para individuos y equipos?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "Me quedé fuera de mi cuenta, ¿qué hago?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "¡Por supuesto! No solo puedes mejorar tu plan en cualquier momento, sino que también obtienes un descuento prorrateado que te da el máximo valor por tu suscripción.",
   },
 ];
 
 export const plans = [
   {
     id: "0",
-    title: "Core",
+    title: "Básico",
     priceMonthly: 19,
     priceYearly: 12,
-    caption: "Best for solo creators",
+    caption: "Ideal para creadores independientes",
     features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
+      "100MB de almacenamiento en la nube",
+      "100+ plantillas de prompts",
+      "5 proyectos",
+      "Soporte 24/7",
     ],
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
   },
   {
     id: "1",
-    title: "Overdrive",
+    title: "Profesional",
     priceMonthly: 79,
     priceYearly: 59,
-    caption: "Most popular plan",
+    caption: "Plan más popular",
     features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
+      "Todas las características del plan Básico",
+      "1TB de almacenamiento adicional",
+      "Proyectos ilimitados",
+      "Analíticas",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
   },
   {
     id: "2",
-    title: "Team",
+    title: "Equipo",
     priceMonthly: 39,
     priceYearly: 29,
-    caption: "Exclusively for teams",
+    caption: "Exclusivamente para equipos",
     features: [
-      "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
+      "Todas las características del plan Profesional",
+      "10TB de almacenamiento adicional",
+      "50% de descuento por miembro",
+      "Colaboración en tiempo real",
     ],
     icon: "/images/hexagon.svg",
     logo: "/images/plan-3.png",
@@ -164,7 +164,7 @@ export const testimonials = [
     role: "Globalnomads",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "¡El soporte al cliente de Xora es incomparable! Son como mis superhéroes tecnológicos, siempre están ahí cuando los necesito.",
   },
   {
     id: "1",
@@ -172,7 +172,7 @@ export const testimonials = [
     role: "Vid capital intl",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "Al principio era escéptico, pero ahora no puedo imaginar nuestras operaciones de contenido sin él. Es así de impactante.",
   },
   {
     id: "2",
@@ -180,7 +180,7 @@ export const testimonials = [
     role: "Cyberleap",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "Adoptar este software fue muy sencillo. Ha hecho que las tareas diarias sean mucho más simples.",
   },
   {
     id: "3",
