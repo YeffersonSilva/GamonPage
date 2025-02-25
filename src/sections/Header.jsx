@@ -21,11 +21,11 @@ const Header = () => {
 
   const NavLink = ({ title }) => {
     const translations = {
-      features: "funciones",
-      pricing: "precios",
-      faq: "preguntas",
-      download: "descargar",
-      hero: "inicio",
+      features: "Servicios",
+      pricing: "Planes",
+      faq: "Ayuda",
+      download: "Contacto",
+      hero: "Inicio",
     };
 
     return (
@@ -101,14 +101,14 @@ const Header = () => {
                 src="/images/bg-outlines.svg"
                 width={960}
                 height={380}
-                alt="contorno"
+                alt="fondo"
                 className="relative z-2"
               />
               <img
                 src="/images/bg-outlines-fill.png"
                 width={960}
                 height={380}
-                alt="contorno relleno"
+                alt="fondo decorativo"
                 className="absolute inset-0 mix-blend-soft-light opacity-5"
               />
             </div>
@@ -121,7 +121,7 @@ const Header = () => {
         >
           <img
             src={`/images/${isOpen ? "close" : "magic"}.svg`}
-            alt="menú"
+            alt={isOpen ? "cerrar menú" : "abrir menú"}
             className="object-contain size-1/2"
           />
         </button>

@@ -5,14 +5,14 @@ const Testimonials = () => {
   const halfLength = Math.floor(testimonials.length / 2);
 
   return (
-    <section className="relative z-2 py-24 md:py-28 lg:py-40">
+    <section className="relative py-24 z-2 md:py-28 lg:py-40">
       <div className="container block lg:flex">
-        <div className="testimonials_head-res relative z-2 mr-20 flex-300">
-          <p className="caption mb-5 max-md:mb-2.5">Wall of Love</p>
-          <h3 className="h3 max-md:h5 text-p4">Words from our fans</h3>
+        <div className="relative mr-20 testimonials_head-res z-2 flex-300">
+          <p className="caption mb-5 max-md:mb-2.5">Muro de Amor</p>
+          <h3 className="h3 max-md:h5 text-p4">Palabras de nuestros Clientes</h3>
         </div>
 
-        <div className="testimonials_inner-after testimonials_inner-before relative -my-12 -mr-3 flex items-start max-lg:static max-md:block">
+        <div className="relative flex items-start -my-12 -mr-3 testimonials_inner-after testimonials_inner-before max-lg:static max-md:block">
           <div className="testimonials_group-after flex-50">
             {testimonials.slice(0, halfLength).map((testimonial) => (
               <TestimonialItem
