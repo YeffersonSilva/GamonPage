@@ -313,3 +313,29 @@
 
   /*  END of Footer*/
 }
+
+.absolute-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.special-font {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero-heading {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mask-clip-path {
+  clip-path: circle(50% at 50% 50%);
+}
